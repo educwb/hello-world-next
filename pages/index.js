@@ -3,7 +3,7 @@ import Link from 'next/link'
 const Index = () => {
   return (
     <div>
-      <h1>Hello World</h1>
+      <h1>Home</h1>
       <Link href="/about">
         <a>About</a>
       </Link>
