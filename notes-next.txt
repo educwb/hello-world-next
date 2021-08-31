@@ -1,2 +1,3 @@
 https://nextjs.org/docs/advanced-features/custom-app
 
+https://nextjs.org/docs/advanced-features/custom-document
