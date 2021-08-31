@@ -8,7 +8,7 @@ const Products = () => {
   return (
     <div>
       <h1>Produtos</h1>
-      <p>{router.query.products}</p>
+      <p>{router.query.category} / {router.query.products}</p>
     </div>
   )
 }
